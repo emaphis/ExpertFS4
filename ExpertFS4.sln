@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ExpertFS4", "Expert\ExpertFS4.fsproj", "{3B0E2C1B-E2DE-4053-B45B-EF9B65717189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0E2C1B-E2DE-4053-B45B-EF9B65717189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0E2C1B-E2DE-4053-B45B-EF9B65717189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0E2C1B-E2DE-4053-B45B-EF9B65717189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0E2C1B-E2DE-4053-B45B-EF9B65717189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD2DB385-B8AD-4C03-ABAE-714318174FE9}
+	EndGlobalSection
+EndGlobal
