@@ -1,12 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
   </PropertyGroup>
-
   <ItemGroup>
+    <None Include="Listing02_01.fsx" />
+    <None Include="Listing02_03.fsx" />
+    <None Include="Suave1.fsx" />
+    <Compile Include="Script1.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
-
+  <Import Project="..\.paket\Paket.Restore.targets" />
 </Project>
