@@ -272,3 +272,15 @@ http "https://news.bbc.co.uk";;
 // val http: url: string -> string
 
 // Using open to Access Namespaces and Modules
+
+open System
+
+let describeAge1 (age: int) : unit =
+    let ageDescription =
+        if age < 18 then "Child!"
+        elif age < 65 then "Adult!"
+        else "OAP!"
+
+    let greeting = "Hello"
+
+    Console.WriteLine("{0}! You are a '{1}'.", greeting, ageDescription)
