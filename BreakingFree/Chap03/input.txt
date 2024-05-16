@@ -1,0 +1,7 @@
+This is input.
+This is also input.
+This is input for testing purposes.
+How long should I make it.
+This is the fifth line.
+This is it.
+I'm done.

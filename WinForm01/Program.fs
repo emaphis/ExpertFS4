@@ -11,7 +11,7 @@ let initializeComponent (frmInitialized : Form) =
     btnHelloWinForm.Size <- new Size(180, 40)
     btnHelloWinForm.Click.Add(fun eventArgs -> MessageBox.Show("Runs on Windows Version " + currentOSVersion) |> ignore)
     frmInitialized.Controls.Add(btnHelloWinForm)
-    
+
 
 
 [<EntryPoint; STAThread>]
@@ -23,5 +23,3 @@ let main argv =
     initializeComponent(mainForm)
     Application.Run(mainForm)
     0
-
-

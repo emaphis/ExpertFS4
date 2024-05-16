@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Bindings.fsx" />
+    <None Include="FlowControl.fsx" />
+    <None Include="Nullability.fsx" />
+    <None Include="Generics.fsx" />
+    <None Include="Exceptions.fsx" />
+    <None Include="Comments.fsx" />
+    <Compile Include="Circle.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
