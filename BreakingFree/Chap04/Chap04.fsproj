@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Classes.fsx" />
+    <None Include="Constructors.fsx" />
+    <None Include="Fields.fsx" />
+    <None Include="Properties.fsx" />
+    <None Include="Methods.fsx" />
+    <None Include="Events.fsx" />
+    <None Include="Structures.fsx" />
+    <None Include="Inheritance.fsx" />
+    <None Include="StaticMembers.fsx" />
+    <None Include="MutuallyRecursiveTypes.fsx" />
+    <None Include="Interfaces.fsx" />
+    <None Include="CustomOperators.fsx" />
+    <None Include="ObjectExpressions.fsx" />
+    <None Include="TypeExtensions.fsx" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+</Project>
