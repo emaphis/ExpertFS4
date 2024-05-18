@@ -10,6 +10,10 @@
     <None Include="Currying.fsx" />
     <None Include="RecursiveFunctions.fsx" />
     <None Include="LambdaExpressions.fsx" />
+    <None Include="FunctionalTypes.fsx" />
+    <None Include="DiscriminatedUnions.fsx" />
+    <None Include="Markup.fsx" />
+    <None Include="LazyEvaluation.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
