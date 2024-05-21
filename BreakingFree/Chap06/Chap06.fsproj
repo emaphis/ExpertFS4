@@ -8,6 +8,8 @@
   <ItemGroup>
     <None Include="Sequences.fsx" />
     <None Include="Arrays.fsx" />
+    <None Include="Lists.fsx" />
+    <None Include="Sets.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
