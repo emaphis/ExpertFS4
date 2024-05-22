@@ -10,6 +10,8 @@
     <None Include="Arrays.fsx" />
     <None Include="Lists.fsx" />
     <None Include="Sets.fsx" />
+    <None Include="Maps.fsx" />
+    <None Include="Conversions.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
