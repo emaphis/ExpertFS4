@@ -12,6 +12,9 @@
     <None Include="IdentifierPatterns.fsx" />
     <None Include="MatchingCollections.fsx" />
     <None Include="MatchingByType.fsx" />
+    <None Include="AsPatterns.fsx" />
+    <None Include="PatternsWithAndOr.fsx" />
+    <None Include="ActivePatterns.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
