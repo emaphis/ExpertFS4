@@ -15,6 +15,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Chap07", "Chap07\Chap07.fsp
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Chap08", "Chap08\Chap08.fsproj", "{111E4099-E316-4FFE-B0DE-5EA802D29E4F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Chap09", "Chap09\Chap09.fsproj", "{BBC7618F-F6FE-4309-A4E1-887C239F9087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{111E4099-E316-4FFE-B0DE-5EA802D29E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{111E4099-E316-4FFE-B0DE-5EA802D29E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{111E4099-E316-4FFE-B0DE-5EA802D29E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC7618F-F6FE-4309-A4E1-887C239F9087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC7618F-F6FE-4309-A4E1-887C239F9087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC7618F-F6FE-4309-A4E1-887C239F9087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC7618F-F6FE-4309-A4E1-887C239F9087}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
