@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="EnforcingMeasures.fsx" />
+    <None Include="DefiningMeasures.fsx" />
+    <None Include="MeasureFormulas.fsx" />
+    <None Include="ApplyingMeasues.fsx" />
+    <None Include="StrippingMeasures.fsx" />
+    <None Include="ConvertingBetweenMeasures.fsx" />
+    <None Include="GenericMeasures.fsx" />
+    <None Include="CustomMeasureAwareTypes.fsx" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+</Project>
